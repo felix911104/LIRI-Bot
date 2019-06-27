@@ -1,6 +1,6 @@
 # LIRI-Bot
 
-I build this LIRI-BOT to do the following:
+This LIRI-BOT app is able do the following:
 
 Enter "node liri.js + `command` + <"what you want to search"> and let Liri do the work for you.
 `command` includes :
@@ -46,11 +46,13 @@ Visual Studio Code
 
 ## GoogleDrive Link to show the project 
 
+- check out this shot video to see what the results will look like.
 [GoogleDrive](https://drive.google.com/file/d/1WGw-KytBQqlG3YYp69ZjcI0X83mXFdsq/view)
 
 ## To use this app
 
-You will need to have your own spotify key and install all npm packages.
+In order to test this app,
+you will need to have your own spotify key and install the npm packages list below.
 
 1. [Node-Spotify-Api](https://www.npmjs.com/package/node-spotify-api)
 2. [Axios](https://www.npmjs.com/package/axios)
@@ -58,6 +60,15 @@ You will need to have your own spotify key and install all npm packages.
 - [BandsInTown-Api](http://www.artists.bandsintown.com/bandsintown-api)
 3. [Moment](https://www.npmjs.com/package/moment)
 4. [DotEnv](https://www.npmjs.com/package/dotenv)
+
+## Screen shots
+
+Here are some scrren shots of how the result will show.
+
+![concert-this](./Screenshots/1.png)
+![spotify-this-song](./Screenshots/2.png)
+![movie-this](./Screenshots/3.png)
+![do-what-it-says](./Screenshots/4.png)
 
 ## Author
 Felix Zhang
